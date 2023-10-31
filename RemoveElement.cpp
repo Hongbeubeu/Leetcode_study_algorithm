@@ -18,3 +18,5 @@ public:
         return index;
     }
 };
+
+//https://leetcode.com/problems/remove-element/

@@ -31,3 +31,5 @@ int main()
         cout << output[i] << endl;
     }
 }
+
+//https://leetcode.com/problems/find-the-original-array-of-prefix-xor/?envType=daily-question&envId=2023-10-31

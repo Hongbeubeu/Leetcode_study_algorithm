@@ -34,3 +34,5 @@ int main()
     string s = "1a";
     cout << solution.lengthOfLastWord(s) << endl;
 }
+
+//https://leetcode.com/problems/length-of-last-word/description/

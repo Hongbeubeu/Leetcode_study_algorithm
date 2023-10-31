@@ -59,3 +59,5 @@ int main()
 
     cout << solution.searchInsert(test, 2) << endl;
 }
+
+//https://leetcode.com/problems/search-insert-position/
